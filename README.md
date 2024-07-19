@@ -55,15 +55,15 @@ The Jupyter notebook `main.ipynb` contains the different models used for predict
 
 ## Screenshots
 
-Here are some screenshots of the application in action:
+Here are some screenshot of the application in action:
 
 ### Screenshot 1
 
-![Screenshot 1](path/to/screenshot1.png)
+![Screenshot 1](hackathon/app.png)
 
 ### Screenshot 2
 
-![Screenshot 2](path/to/screenshot2.png)
+![Screenshot 2](hackathon/models.png)
 
 ## Contributing
 
